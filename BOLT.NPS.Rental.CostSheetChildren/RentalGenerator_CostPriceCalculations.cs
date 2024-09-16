@@ -15,7 +15,7 @@ namespace BOLT.NPS.Rental.CostSheetChildren
         /// A plugin that calculates the Cost and Price fields for the Rental Generator entity. NIXON version
         /// </summary>
         /// <remarks>
-        /// Entity: bolt_rentalgenerators (Rental Generators)
+        /// Entity: bolt_rentalgenerators(Rental Cost Sheet)
         /// Message, Stage, Order, Mode: Create, PreOperation, 2, Synchronous 
         /// Message, Stage, Order, Mode: Delete, PostOperation, 1, Synchronous 
         /// Image: Pre Image, All Attributes
