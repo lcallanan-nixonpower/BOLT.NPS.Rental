@@ -10,7 +10,7 @@ using Microsoft.Crm.Sdk.Messages;
 namespace BOLT.NPS.Rental.CostSheetChildren
 {
     /// <summary>
-    /// A plugin that calculates the Cost and Price fields for the Rental Cables entity. BCEW version
+    /// A plugin that calculates the Cost and Price fields for the Rental Cables entity. NIXON version
     /// </summary>
     /// <remarks>
     /// Entity: bolt_rentalcables (Rental Cables)
